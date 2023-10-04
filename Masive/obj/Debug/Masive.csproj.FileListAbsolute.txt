@@ -1,0 +1,6 @@
+C:\Users\utkin\RiderProjects\Masive\Masive\bin\Debug\Masive.exe
+C:\Users\utkin\RiderProjects\Masive\Masive\bin\Debug\Masive.pdb
+C:\Users\utkin\RiderProjects\Masive\Masive\obj\Debug\Masive.csproj.AssemblyReference.cache
+C:\Users\utkin\RiderProjects\Masive\Masive\obj\Debug\Masive.csproj.CoreCompileInputs.cache
+C:\Users\utkin\RiderProjects\Masive\Masive\obj\Debug\Masive.exe
+C:\Users\utkin\RiderProjects\Masive\Masive\obj\Debug\Masive.pdb
